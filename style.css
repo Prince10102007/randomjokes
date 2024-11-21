@@ -1,0 +1,39 @@
+#top{
+    background-color: burlywood;
+    height: 10vw;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-weight: bolder;
+}
+#display{
+    height: 25vw;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+
+    margin-top: 10vw;
+    background-color: lightgreen ;
+}
+img{
+    height: 20vw;
+    width: 20vw;
+    margin-top: 2vw;
+    margin-left: 2vw;
+    border-radius:10px;
+
+}
+#pp{
+    
+    font-size: xx-large;
+    font-weight: bolder;
+}
+#sec{
+    height: 12vw;
+    width: 40vw;
+    
+    margin-top: 6vw;
+    margin-left: 10vw;
+}
